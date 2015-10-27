@@ -52,5 +52,5 @@ angular.module('starter.controllers', [])
   ];
 })
 
-.controller('BooksCtrl', function($scope, $stateParams) {
+.controller('BookCtrl', function($scope, $stateParams) {
 });

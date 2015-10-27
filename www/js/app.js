@@ -55,7 +55,7 @@ angular.module('starter', ['ionic', 'starter.controllers'])
     views: {
       'menuContent': {
         templateUrl: 'templates/book.html',
-        controller: 'booksCtrl'
+        controller: 'BooksCtrl'
       }
     }
   });
